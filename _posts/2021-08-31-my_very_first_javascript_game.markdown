@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "My Very First JavaScript Game"
-date:       2021-08-31 06:20:00 +0000
+title:      "Portfolio Project #4 - My Very First JavaScript Game"
+date:       2021-08-31 02:20:00 -0400
 permalink:  my_very_first_javascript_game
 ---
 
