@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Algorithms and Big-O Notation"
-date:       2022-01-04 08:37:14 +0000
+date:       2022-01-04 03:37:14 -0500
 permalink:  algorithms_and_big-o_notation
 ---
 
